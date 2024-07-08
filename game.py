@@ -3,7 +3,7 @@
 # f.write(st)
 # f.close()
 
-# uncomment the abpve lines and run them first and then then run below code 
+# uncomment the abpve lines and run them first and then then run below code or else check out game1.py if u are too lazy to do it manually
 
 import random
 
