@@ -1,3 +1,10 @@
+# st = ""
+# f = open("hiscore.txt", "w")
+# f.write(st)
+# f.close()
+
+# uncomment the abpve lines and run them first and then then run below code 
+
 import random
 
 def game():
